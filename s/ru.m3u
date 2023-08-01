@@ -1,9 +1,11 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 #PLAYLIST:RU (www.iptvlist.ru) modified 2023-08-01 by va
 #EXTINF:0 type="stream" channelId="203" group="Общероссийские" aspect-ratio="16:9" size="Small", Россия 1HD
-http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
+https://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:0 type="stream" channelId="5" group="Общероссийские" size="Small", Россия К
-http://radio-live-mg.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+https://radio-live-mg.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1 ,Россия 24
+https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 ,Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал (+4)
