@@ -44,8 +44,14 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,Москва 24
+https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
+#EXTINF:-1 ,Москва.Доверие
+https://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
 #EXTINF:-1 ,Беларусь 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 ,Беларусь 1
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 ,Совершенно секретно
 https://live-sovsec.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8
 #EXTINF:-1 ,Волжский Плюс FHD
