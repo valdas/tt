@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 #PLAYLIST:RU (www.iptvlist.ru) modified 2023-08-01 by va
 #EXTINF:0 type="stream" channelId="203" group="Общероссийские" aspect-ratio="16:9" size="Small", Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:0 type="stream" channelId="203" group="Общероссийские" aspect-ratio="16:9" size="Small", Россия 1 HD
 https://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:0 type="stream" channelId="203" group="Общероссийские" aspect-ratio="16:9" size="Small", Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961?e=.m3u8
